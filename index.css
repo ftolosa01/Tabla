@@ -1,0 +1,26 @@
+body{
+    background-color: lightskyblue;
+}
+th{
+margin-right: 25%;
+}
+div{
+   margin-left: 25%;
+   max-width: 25;
+   margin-top: 200px;
+}
+#TablaNombre{
+background-color: red;    
+}
+#PrimeraTabla{
+    background-color: bisque;
+}
+#segundaTabla{
+    background-color: bisque;
+}
+#terceraTabla{
+    background-color: bisque;
+}
+#cuartaTabla{
+    background-color: bisque;
+}
